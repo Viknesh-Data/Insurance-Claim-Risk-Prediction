@@ -1,0 +1,2 @@
+Dataset available from original competition source.
+Link:  https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1010-InsClaimPred.zip
