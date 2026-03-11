@@ -36,9 +36,9 @@ EDA includes:
 - Outlier detection using boxplots
 - Correlation heatmap
 
-class_distribution.png (Visuals in Images folder)
-correlation_heatmap.png (Visuals in Images folder)
-roc_curve.png (Visuals in Images folder)
+- class_distribution.png (Visuals in Images folder)
+- correlation_heatmap.png (Visuals in Images folder)
+- roc_curve.png (Visuals in Images folder)
 
 The dataset shows **severe class imbalance**, which significantly influences model behavior.
 
